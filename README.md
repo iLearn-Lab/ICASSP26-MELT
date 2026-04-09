@@ -246,12 +246,11 @@ If you encounter any issues or have questions about the implementation, please f
 If you find MELT insightful or utilize our code in your research, we would greatly appreciate a **Star 🌟** and a citation:
 
 ```bibtex
-@inproceedings{melt,
-  title={{MELT}: Improve Composed Image Retrieval via the Modification Frequentation-Rarity Balance Network},
+@article{qiu2026melt,
+  title={MELT: Improve Composed Image Retrieval via the Modification Frequentation-Rarity Balance Network},
   author={Qiu, Guozhi and Chen, Zhiwei and Li, Zixu and Huang, Qinlei and Fu, Zhiheng and Song, Xuemeng and Hu, Yupeng},
-  booktitle={IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
-  year={2026},
-  organization={IEEE}
+  journal={arXiv preprint arXiv:2603.29291},
+  year={2026}
 }
 ```
 
