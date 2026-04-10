@@ -222,10 +222,11 @@ MELT/
 │   │       └── melt_models.py      # 🧠 Core engine: Implementation of RATR & DSD modules
 ├── train.py                        # 🚀 Main entry: Configures hyperparameters & training loop
 ├── datasets.py                     # 📦 Data wrappers
-├── test_BLIP2.py                         # 🧪 Local validation script
+├── test_BLIP2.py                         # 🧪 Local validation tools
+├── test_cirr_fiq.py                      # 🧪 Local validation script
 ├── utils.py                        
 ├── data_utils.py                   
-├── cirr_sub_BLIP2.py               # 📝 Sub-routine: Generates CIRR online evaluation format
+├── cirr_sub.py               # 📝 Sub-routine: Generates CIRR online evaluation format
 ├── datasets/                       # 📁 Offline dataset loading configurations
 └── README.md
 ```
