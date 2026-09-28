@@ -18,9 +18,9 @@
   <br/>
 
   <p>
-      <a href="#"><img src="https://img.shields.io/badge/ICASSP-2026-blue.svg?style=flat-square" alt="ICASSP 2026"></a>
-      <a href="#"><img src="https://img.shields.io/badge/arXiv-Coming_Soon-b31b1b.svg?style=flat-square" alt="arXiv"></a>
-      <a href="#"><img src="https://img.shields.io/badge/Paper-Coming_Soon-green.svg?style=flat-square" alt="Paper"></a>
+      <a href="https://2026.ieeeicassp.org/event/about-conference/"><img src="https://img.shields.io/badge/ICASSP-2026-blue.svg?style=flat-square" alt="ICASSP 2026"></a>
+      <a href="https://arxiv.org/abs/2603.29291"><img src="https://img.shields.io/badge/arXiv-Coming_Soon-b31b1b.svg?style=flat-square" alt="arXiv"></a>
+      <a href="https://ieeexplore.ieee.org/abstract/document/11463370"><img src="https://img.shields.io/badge/Paper-Coming_Soon-green.svg?style=flat-square" alt="Paper"></a>
       <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?&logo=pytorch&logoColor=white&style=flat-square" alt="PyTorch"></a>
       <img src="https://img.shields.io/badge/python-≥3.8-blue?style=flat-square" alt="Python">
       <img src="https://img.shields.io/badge/CUDA-11.7+-green.svg?style=flat-square" alt="CUDA">
